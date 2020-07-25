@@ -1,2 +1,2 @@
 # APA
-Repositório dedicado à diciplina de Análise e Projeto de Algoritmos. 
+Repositório dedicado à disciplina de Análise e Projeto de Algoritmos. 
